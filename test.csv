@@ -1,0 +1,13 @@
+name,location,format
+all_cell_marker_expression_sample_tSNE_M.png,.,image in the png format
+all_cell_classified_sample_tSNE_M.fcs,.,table in the fcs format
+all_cell_classified_sample_tSNE_M.png,.,image in the png format
+cell_type_composition_sample_M.png,.,image in the png format
+cell_type_composition_sample_M.csv,.,table in the csv format
+tumor_cell_marker_expression_sample_tSNE_M.png,.,image in the png format
+tumor_cell_PG_sample_tSNE_M.png,.,image in the png format
+tumor_cell_sample_PG_tSNE_M.fcs,.,table in a fcs format
+tumor_composition_sample_M.csv,.,table as a csv file
+tumor_composition_sample_M.png,.,image in the png format
+tumor_marker_expression_per_cluster_vs_ref_M.csv,.,table as a csv file
+tumor_marker_expression_per_cluster_vs_ref_M.png,.,image in the png format

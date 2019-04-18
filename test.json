@@ -1,0 +1,62 @@
+[
+    {
+        "name": "all_cell_marker_expression_sample_tSNE_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "all_cell_classified_sample_tSNE_M.fcs",
+        "location": ".",
+        "format": "table in the fcs format"
+    },
+    {
+        "name": "all_cell_classified_sample_tSNE_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "cell_type_composition_sample_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "cell_type_composition_sample_M.csv",
+        "location": ".",
+        "format": "table in the csv format"
+    },
+    {
+        "name": "tumor_cell_marker_expression_sample_tSNE_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "tumor_cell_PG_sample_tSNE_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "tumor_cell_sample_PG_tSNE_M.fcs",
+        "location": ".",
+        "format": "table in a fcs format"
+    },
+    {
+        "name": "tumor_composition_sample_M.csv",
+        "location": ".",
+        "format": "table as a csv file"
+    },
+    {
+        "name": "tumor_composition_sample_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    },
+    {
+        "name": "tumor_marker_expression_per_cluster_vs_ref_M.csv",
+        "location": ".",
+        "format": "table as a csv file"
+    },
+    {
+        "name": "tumor_marker_expression_per_cluster_vs_ref_M.png",
+        "location": ".",
+        "format": "image in the png format"
+    }
+]
